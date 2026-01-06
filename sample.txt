@@ -2,3 +2,6 @@ Hello world
 instead of switch case match is there
 
 # : is used for block specification
+
+#return is used to call on the console and print is used to display within the function
+ATTRIBUTE IS A VARIABLE WRITTEN INSIDE A CLASS
