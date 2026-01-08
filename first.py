@@ -1,4 +1,5 @@
 # print -> variable length 
+# * -> variable length arguments
 # (different objects)  (sepearator used to separate objects)
 #seperator works on objects
 #end works wih print statement
