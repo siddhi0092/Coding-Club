@@ -7,3 +7,6 @@ instead of switch case match is there
 ATTRIBUTE IS A VARIABLE WRITTEN INSIDE A CLASS
 
 # raise to raise an error in python
+
+
+#every variable in python has an object
